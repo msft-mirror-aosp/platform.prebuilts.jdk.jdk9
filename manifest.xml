@@ -16,15 +16,15 @@
   <project name="toolchain/jdk/jdk9_jaxp" path="toolchain/jdk/jdk9_jaxp" revision="9d0d323a61a1cd4930ebca527673992ece7ab1d3" upstream="mirror-aosp-master" />
   <project name="toolchain/jdk/jdk9_jaxws" path="toolchain/jdk/jdk9_jaxws" revision="cc2e16b7e6d0b1f6a4dbc28ffaf3a22b19991dd7" upstream="mirror-aosp-master" />
   <project name="toolchain/jdk/jdk9_jdk" path="toolchain/jdk/jdk9_jdk" revision="c0b06e55d3d29a1a0c8817b5d9c9e8debb9763c7" upstream="mirror-aosp-master" />
-  <project name="toolchain/jdk/jdk9_langtools" path="toolchain/jdk/jdk9_langtools" revision="0ff2930b76dd2dad0c4183945b7104b0f7b55930" upstream="mirror-aosp-master" />
+  <project name="toolchain/jdk/jdk9_langtools" path="toolchain/jdk/jdk9_langtools" revision="21d5ec9f070a5709fd8183c106840c13c0182a29" upstream="mirror-aosp-master" />
   <project name="toolchain/jdk/jdk9_nashorn" path="toolchain/jdk/jdk9_nashorn" revision="fbaa32dd52163c8f4f939001dfd8a9f46a08eff2" upstream="mirror-aosp-master" />
   <!-- prebuilts projects -->
-  <project clone-depth="1" name="platform/prebuilts/build-tools" path="prebuilts/build-tools" revision="52503bbc2eeeef9c969f13963a91dc5eba414b36" upstream="mirror-aosp-master" />
-  <project clone-depth="1" name="platform/prebuilts/clang/host/darwin-x86" path="prebuilts/clang/host/darwin-x86" revision="350239d7ab5a436e89a5875f08ca8e3cb4d518d9" upstream="mirror-aosp-master" />
-  <project clone-depth="1" name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" revision="4e9fba639b7a5a29e957048f037b23781796161a" upstream="mirror-aosp-master" />
-  <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" revision="f4efc77dafdc476d9a4f252e95b9bb1b0e1aa7ad" upstream="mirror-aosp-master" />
-  <project clone-depth="1" name="platform/prebuilts/studio/jdk" path="prebuilts/studio/jdk" revision="c8d2cb73382c65ee7e5cd599bbb160aa545926ac" upstream="mirror-aosp-studio-master-dev" />
+  <project clone-depth="1" name="platform/prebuilts/build-tools" path="prebuilts/build-tools" revision="3b70304b986fc00ae50c1cd332471fd9855e8fd1" upstream="mirror-aosp-master" />
+  <project clone-depth="1" name="platform/prebuilts/clang/host/darwin-x86" path="prebuilts/clang/host/darwin-x86" revision="973c62def61cd907cc28f49dd684a3fb86df288d" upstream="mirror-aosp-master" />
+  <project clone-depth="1" name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" revision="e849c189f71add4e53744ef6483638b9469ba241" upstream="mirror-aosp-master" />
+  <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" revision="2ccb38af8c940f1feef62ff5986f4bbc5d899e66" upstream="mirror-aosp-master" />
+  <project clone-depth="1" name="platform/prebuilts/studio/jdk" path="prebuilts/studio/jdk" revision="4d8d242a60231f0bf8e8622a64c368f0e2187d2d" upstream="mirror-aosp-studio-master-dev" />
   <!-- build projects -->
-  <project clone-depth="1" name="toolchain/jdk/build" path="toolchain/jdk/build" revision="f17f26c3fb2c07fb8238be5aed4d333174c6fa2a" upstream="mirror-aosp-master" />
+  <project clone-depth="1" name="toolchain/jdk/build" path="toolchain/jdk/build" revision="de36509ef5d4ede9909846353ec22d5c000d8238" upstream="mirror-aosp-master" />
   <project clone-depth="1" name="toolchain/jdk/deps" path="toolchain/jdk/deps" revision="76d7e49d62136f36810507a366504379174cc6b2" upstream="master" />
 </manifest>
