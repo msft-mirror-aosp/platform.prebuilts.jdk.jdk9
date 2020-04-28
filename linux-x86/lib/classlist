@@ -637,9 +637,9 @@ java/lang/invoke/LambdaForm$Holder
 java/lang/invoke/InvokerBytecodeGenerator
 java/lang/invoke/InvokerBytecodeGenerator$2
 java/lang/invoke/MethodHandleImpl$Intrinsic
-java/lang/invoke/MethodHandleImpl$ArrayAccess
 sun/invoke/empty/Empty
 java/lang/invoke/MethodHandleImpl$LoopClauses
+java/lang/invoke/MethodHandleImpl$ArrayAccess
 java/lang/InternalError
 java/lang/invoke/MethodHandleImpl$1
 jdk/internal/misc/JavaLangInvokeAccess
